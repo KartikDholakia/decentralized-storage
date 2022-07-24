@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/decentralized-storage/static/css/main.d850c1a7.chunk.css",
+    "main.js": "/decentralized-storage/static/js/main.f5409ff8.chunk.js",
+    "main.js.map": "/decentralized-storage/static/js/main.f5409ff8.chunk.js.map",
+    "runtime-main.js": "/decentralized-storage/static/js/runtime-main.cabf885f.js",
+    "runtime-main.js.map": "/decentralized-storage/static/js/runtime-main.cabf885f.js.map",
+    "static/css/2.a6a636a0.chunk.css": "/decentralized-storage/static/css/2.a6a636a0.chunk.css",
+    "static/js/2.c28a7d3b.chunk.js": "/decentralized-storage/static/js/2.c28a7d3b.chunk.js",
+    "static/js/2.c28a7d3b.chunk.js.map": "/decentralized-storage/static/js/2.c28a7d3b.chunk.js.map",
+    "index.html": "/decentralized-storage/index.html",
+    "precache-manifest.a26261f6ad92f91e27975372a86e7e48.js": "/decentralized-storage/precache-manifest.a26261f6ad92f91e27975372a86e7e48.js",
+    "service-worker.js": "/decentralized-storage/service-worker.js",
+    "static/css/2.a6a636a0.chunk.css.map": "/decentralized-storage/static/css/2.a6a636a0.chunk.css.map",
+    "static/css/main.d850c1a7.chunk.css.map": "/decentralized-storage/static/css/main.d850c1a7.chunk.css.map",
+    "static/js/2.c28a7d3b.chunk.js.LICENSE.txt": "/decentralized-storage/static/js/2.c28a7d3b.chunk.js.LICENSE.txt",
+    "static/media/box.png": "/decentralized-storage/static/media/box.df8b84d5.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cabf885f.js",
+    "static/css/2.a6a636a0.chunk.css",
+    "static/js/2.c28a7d3b.chunk.js",
+    "static/css/main.d850c1a7.chunk.css",
+    "static/js/main.f5409ff8.chunk.js"
+  ]
+}
