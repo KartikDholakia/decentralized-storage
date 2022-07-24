@@ -32,9 +32,7 @@ contract DStorage {
 		address payable uploader
 	);
 
-	constructor() {
-		
-	}
+	constructor() {}
 
 	// Upload File function
 	function uploadFile(
