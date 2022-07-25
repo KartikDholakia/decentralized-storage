@@ -167,4 +167,6 @@ blockchain/history
 yarn.lock
 package-lock.json
 
+\.env_example
+truffle-config.js
 # End of https://www.toptal.com/developers/gitignore/api/react,soliditytruffle,solidity
